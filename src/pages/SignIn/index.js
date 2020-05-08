@@ -1,10 +1,14 @@
 import React from 'react';
 import { Text } from 'react-native';
 
+import Background from '~/components/Background';
+
 // import { Container } from './styles';
 
-const SignIn = () => {
-  return <Text>Signin</Text>;
-};
-
-export default SignIn;
+export default function SignIn() {
+  return (
+    <Background>
+      <Text>SignIn</Text>
+    </Background>
+  );
+}
