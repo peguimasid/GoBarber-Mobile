@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { forwardRef } from 'react';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import PropTypes from 'prop-types';
