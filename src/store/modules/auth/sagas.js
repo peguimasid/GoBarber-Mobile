@@ -50,7 +50,7 @@ export function* signUp({ payload }) {
     });
 
     // history.push('/');
-    Alert.alert('Verificado', 'Cadastro realizado com sucesso');
+    Alert.alert('Sucesso', 'Cadastro realizado com sucesso');
   } catch (err) {
     Alert.alert(
       'Falha no cadastro',
