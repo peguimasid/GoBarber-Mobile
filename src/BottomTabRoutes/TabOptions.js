@@ -6,16 +6,21 @@ export const TabBarOptions = {
   activeTintColor: '#fff',
   inactiveTintColor: 'rgba(255, 255, 255, 0.4)',
   style: {
-    backgroundColor: '#090909',
+    backgroundColor: '#101010',
+    borderTopWidth: 0,
   },
 };
 
 export const AppointmentOptions = {
   tabBarLabel: 'Agendamentos',
-  tabBarIcon: ({ size }) => <Icon name="event" size={size} color="#eee" />,
+  tabBarIcon: ({ size, color }) => (
+    <Icon name="event" size={size} color={color} />
+  ),
 };
 
 export const ProfileOptions = {
   tabBarLabel: 'Meu Perfil',
-  tabBarIcon: ({ size }) => <Icon name="person" size={size} color="#eee" />,
+  tabBarIcon: ({ size, color }) => (
+    <Icon name="person" size={size} color={color} />
+  ),
 };
