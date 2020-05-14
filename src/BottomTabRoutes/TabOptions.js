@@ -24,3 +24,11 @@ export const ProfileOptions = {
     <Icon name="person" size={size} color={color} />
   ),
 };
+
+export const NewOptions = {
+  tabBarLabel: 'Agendar',
+  tabBarVisible: false,
+  tabBarIcon: ({ color, size }) => (
+    <Icon name="add-circle-outline" size={size} color={color} />
+  ),
+};

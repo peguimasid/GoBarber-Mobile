@@ -4,11 +4,13 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
 import Dashboard from '~/pages/Dashboard';
 import Profile from '~/pages/Profile';
+import New from '~/pages/New';
 
 import {
   TabBarOptions,
   AppointmentOptions,
   ProfileOptions,
+  NewOptions,
 } from './TabOptions';
 
 const Tab = createBottomTabNavigator();
@@ -18,10 +20,12 @@ export default function TabRoutes() {
     <NavigationContainer>
       <Tab.Navigator tabBarOptions={TabBarOptions}>
         <Tab.Screen
-          name="Agendamentos"
+          name="Dashboard"
           component={Dashboard}
           options={AppointmentOptions}
         />
+
+        <Tab.Screen name="Agendar" component={New} options={NewOptions} />
 
         <Tab.Screen
           name="Profile"
