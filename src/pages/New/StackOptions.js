@@ -30,7 +30,7 @@ export const DateOptions = ({ navigation }) => ({
   headerLeft: () => (
     <TouchableOpacity
       onPress={() => {
-        navigation.navigate('Provider');
+        navigation.goBack();
       }}
     >
       <Icon name="chevron-left" size={40} color="#fff" />
