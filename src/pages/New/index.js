@@ -5,7 +5,7 @@ import SelectProvider from './SelectProvider';
 import SelectDateTime from './SelectDateTime';
 import Confirm from './Confirm';
 
-import { ProviderOptions } from './StackOptions';
+import { ProviderOptions, DateOptions, ConfirmOptions } from './StackOptions';
 
 // import { Container } from './styles';
 
@@ -22,12 +22,12 @@ export default function New() {
       <Stack.Screen
         name="Date"
         component={SelectDateTime}
-        // options={DateOptions}
+        options={DateOptions}
       />
       <Stack.Screen
         name="Confirm"
         component={Confirm}
-        // options={ConfirmOptions}
+        options={ConfirmOptions}
       />
     </Stack.Navigator>
   );
