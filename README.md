@@ -8,6 +8,12 @@
 
 <br>
 
+<p align="center">
+  <img alt="Frontend" src="./assets/project.png" width="60%">
+</p>
+
+<br>
+
 ### Iniciando na sua maquina
 1. Inicie o [servidor do GoBarber](https://github.com/peguimasid/GoBarber-backend-pt2)
 2. Baixe o projeto
