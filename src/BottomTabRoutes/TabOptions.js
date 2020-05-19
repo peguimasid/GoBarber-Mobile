@@ -26,6 +26,7 @@ export const ProfileOptions = {
 };
 
 export const NewOptions = {
+  unmountOnBlur: true,
   tabBarLabel: 'Agendar',
   tabBarVisible: false,
   tabBarIcon: ({ color, size }) => (
