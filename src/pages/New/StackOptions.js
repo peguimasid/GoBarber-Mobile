@@ -39,7 +39,7 @@ export const DateOptions = ({ navigation }) => ({
 });
 
 export const ConfirmOptions = ({ navigation }) => ({
-  title: 'Confimar agendamento',
+  title: 'Confirmar agendamento',
   headerTransparent: true,
   headerTintColor: '#fff',
   headerLeftContainerStyle: {
