@@ -20,7 +20,3 @@
 3. `cd gobarberMobile-master`
 4. `yarn`
 5. `yarn ios` ou `yarn android`
-
-<!-- <p align="center">
-  <img alt="RocketShoes" src="./src/assets/rocketshoes.png" width="90%">
-</p> -->
