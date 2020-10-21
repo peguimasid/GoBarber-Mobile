@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://drive.google.com/file/d/1BfG5gN5Cro89Z_9f0aH90w_ZeVmLdPnI/view?usp=sharing" width="60%">
+  <img alt="Frontend" src="https://lh4.googleusercontent.com/C_wQ1k5zDATqoe5J7KDp1hN1oeCk3vyU0cg1V5cMDmYUtoP2qWPkyYoUj7AkWxhc1yJRcgZDORkilTsa4SxL=w1440-h798-rw" width="60%">
 </p>
 
 <br>
