@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://lh3.googleusercontent.com/fife/ABSRlIrcnRGx89GQ3tzcQMBD-kwH2H5XvfXD4uGxyr_zmrIf8v0JgU9OFWrIuNcniWsHde36Trie6MK2um19HumXxMa-O_73d6-8X2X-F9i4pV0CGj78snWffPf2txXxHUCfBpJmjcfn33raIzcJYXGl18Wupn3DTnFjcPp4CsT5LccSlJ9JKpegM6eFjRvsBKmwW33C8XUaBOhsHtOX9eto77PWEzps8PCFdmdHz5oz1WkzAlixxRP-Ij1DLRCCKjJZ4jf0DELIqmKUXF-1clSKkO_yW-7zV9un4UexHlvEALi3foE2gSv3vWjk48AwgWUWxwB-XZrT7TD9okSy9SONnUnAJwetYjmZNP2gMAjX_NJ4XE2egIi2gQVgWFvW7ymh9CkhSV6c7QSMxFNU6BtRqqv7tR9TdrvgBA4wVQ4iZJ_94LQvasn-JOTXY9y4gm9SVTD6qtf5ThrdAKL1KyaGV2DTzyhikLsCLJiMxZr5viXyMdU9J_paPXfKywa0zoE0y7OL3XLWZ2qwmjLov2HzHwIEIVkF2G_f4oBu-UVhUyASzRSfAmvbEOL8pB-ZbyuKEhubUealFBzP0eQbJHuHnrqxv1KTx9t-1GLGew1WhZpjB5GPTwdYwgkdsrLf6VxKH3w1tWpAdxXT7IXRdrUBfeMP9SgE-2dogoH1aTb96QDxjthavnpTWHvmx46QUVgyQ4r9lwcwYFEfjyXsWUBya9CArZnCbtcVuQ=w1440-h796-ft" width="60%">
+  <img alt="Frontend" src="https://github.com/peguimasid/GoBarber-Mobile/assets/54289589/b0cf86c5-35af-4d56-8dea-d7ac5c2f84e9" width="60%">
 </p>
 
 <br>
